@@ -2,9 +2,9 @@
 theme: linkhub-jekyll-theme
 
 # Site Configuration
-name: Parsa ny  # Name of your website
+name: Linkhub  # Name of your website
 tagline: Links  # Set your preferred page title
-description: All my links.  # Also used as a meta description
+description: A free, open-source Jekyll link-in-bio theme.  # Also used as a meta description
 favicon:
   path: "assets/sun.png" # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
