@@ -6,7 +6,7 @@ name: Parsa ny  # Name of your website
 tagline: Links  # Set your preferred page title
 description: All my links.  # Also used as a meta description
 favicon:
-  path: "assets/sun2.png" # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
+  path: "assets/sun.png" # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.jpg')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
 logo: "assets/image.jpg" # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://parsany.github.io/c # URL of your website
