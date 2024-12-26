@@ -12,4 +12,9 @@
 - name: Telegram
   url: https://www.t.me/velvetphy
   icon: ri:telegram-fill
-  color: '#1D9BF0'
+  color: '#1DBBF0'
+
+- name: Spotify
+  url: https://open.spotify.com/user/payrim
+  icon: ri:spotify-fill
+  color: '#00FF00'
